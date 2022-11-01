@@ -1,0 +1,60 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: pink;
+  font-family: "arial","sans serif";
+}
+
+.sobremim h1{
+  text-align: center;
+  position: relative;
+  top: 30px;
+}
+
+#emilyn{
+  width: 100px;
+  height: 100px;
+  position: relative;
+  left: 180px;
+  top: 30px;
+  -webkit-clip-path: circle(50% at 50% 50%);
+  clip-path: circle(50% at 50% 50%);
+}
+
+info ul{
+  list-style: none;
+  position: relative;
+  left: 100px;
+  top: 45px;
+}
+
+.bi-envelope{
+  position: relative;
+  top: 10px;
+  left: 120px;
+}
+
+.bi-book{
+  position: relative;
+  left: 100px;
+  bottom: 5px;
+}
+
+.bi-balloon-heart{
+  position: relative;
+  bottom: 23px;
+  left: 78px;
+}
+
+.curiosidades h1{
+  text-align: center;
+  position: relative;
+  top: 40px;
+}
+
+.curiosidades ul{
+  list-style: none;
+  position: relative;
+  top: 40px;
+}
+
